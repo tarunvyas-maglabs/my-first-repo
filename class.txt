@@ -2,7 +2,6 @@ Crimson
 Orange
 Blue
 Cyan
-Black
 Yellow
 Charcoal
 Khaki
